@@ -1,0 +1,356 @@
+[13-Apr-2025 17:02:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /project/sandbox/user-workspace/config.php:20
+Stack trace:
+#0 /project/sandbox/user-workspace/index.php(2): require_once()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/config.php on line 20
+[13-Apr-2025 17:02:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /project/sandbox/user-workspace/config.php:20
+Stack trace:
+#0 /project/sandbox/user-workspace/index.php(2): require_once()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/config.php on line 20
+[13-Apr-2025 17:02:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /project/sandbox/user-workspace/config.php:20
+Stack trace:
+#0 /project/sandbox/user-workspace/index.php(2): require_once()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/config.php on line 20
+[13-Apr-2025 17:04:08 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:04:08 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:04:32 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:04:32 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:04:45 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:04:47 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:04:47 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:05:00 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:05:01 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:05:01 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:05:02 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:05:06 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:05:19 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:05:21 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:05:21 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:05:51 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:06:14 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:06:14 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:06:20 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:06:20 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:06:27 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:06:27 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:06:28 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:06:29 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:07:00 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:07:31 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:08:04 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:08:36 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:09:09 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:09:40 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:10:13 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:10:45 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:11:17 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:11:48 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:12:04 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:12:36 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:13:08 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:15:05 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:15:05 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:15:14 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:15:45 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:16:18 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:16:49 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:17:03 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:17:09 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:17:15 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:17:38 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:18:25 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:18:31 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:18:39 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:18:51 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:19:03 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:19:09 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:19:33 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:19:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateHourlyStats() in /project/sandbox/user-workspace/includes/functions.php:83
+Stack trace:
+#0 /project/sandbox/user-workspace/queue_hourly.php(12): getCallStats()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/includes/functions.php on line 83
+[13-Apr-2025 17:19:35 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:19:38 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:19:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateDailyStats() in /project/sandbox/user-workspace/includes/functions.php:86
+Stack trace:
+#0 /project/sandbox/user-workspace/queue_daily.php(13): getCallStats()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/includes/functions.php on line 86
+[13-Apr-2025 17:19:40 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:20:36 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:20:52 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:20:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateHourlyStats() in /project/sandbox/user-workspace/includes/functions.php:83
+Stack trace:
+#0 /project/sandbox/user-workspace/queue_hourly.php(12): getCallStats()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/includes/functions.php on line 83
+[13-Apr-2025 17:20:56 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:20:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateDailyStats() in /project/sandbox/user-workspace/includes/functions.php:86
+Stack trace:
+#0 /project/sandbox/user-workspace/queue_daily.php(13): getCallStats()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/includes/functions.php on line 86
+[13-Apr-2025 17:21:08 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:21:10 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:23:07 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:23:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateDailyStats() in /project/sandbox/user-workspace/includes/functions.php:86
+Stack trace:
+#0 /project/sandbox/user-workspace/queue_daily.php(13): getCallStats()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/includes/functions.php on line 86
+[13-Apr-2025 17:23:15 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:23:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateHourlyStats() in /project/sandbox/user-workspace/includes/functions.php:83
+Stack trace:
+#0 /project/sandbox/user-workspace/queue_hourly.php(12): getCallStats()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/includes/functions.php on line 83
+[13-Apr-2025 17:23:23 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:23:31 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:23:37 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:24:09 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:24:19 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:25:06 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:27:39 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:27:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function generateDailyStats() in /project/sandbox/user-workspace/includes/functions.php:87
+Stack trace:
+#0 /project/sandbox/user-workspace/queue_daily.php(13): getCallStats()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/includes/functions.php on line 87
+[13-Apr-2025 17:28:57 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:29:07 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:29:07 UTC] PHP Deprecated:  Implicit conversion from float 254.375 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 428
+[13-Apr-2025 17:29:07 UTC] PHP Deprecated:  Implicit conversion from float 231.625 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 428
+[13-Apr-2025 17:30:43 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:30:57 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:30:57 UTC] PHP Deprecated:  Implicit conversion from float 214.5 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 428
+[13-Apr-2025 17:30:57 UTC] PHP Deprecated:  Implicit conversion from float 243.625 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 428
+[13-Apr-2025 17:32:17 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:32:17 UTC] PHP Deprecated:  Implicit conversion from float 213.25 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 428
+[13-Apr-2025 17:32:17 UTC] PHP Deprecated:  Implicit conversion from float 240.125 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 428
+[13-Apr-2025 17:34:21 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:34:29 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:34:29 UTC] PHP Deprecated:  Implicit conversion from float 241.375 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 428
+[13-Apr-2025 17:34:29 UTC] PHP Deprecated:  Implicit conversion from float 233.5 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 428
+[13-Apr-2025 17:34:52 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:35:00 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:35:35 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:35:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDemoRealtimeStats() in /project/sandbox/user-workspace/includes/functions.php:12
+Stack trace:
+#0 /project/sandbox/user-workspace/dashboard.php(9): getCallStats()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/includes/functions.php on line 12
+[13-Apr-2025 17:35:40 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:35:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDemoRealtimeStats() in /project/sandbox/user-workspace/includes/functions.php:12
+Stack trace:
+#0 /project/sandbox/user-workspace/dashboard.php(9): getCallStats()
+#1 {main}
+  thrown in /project/sandbox/user-workspace/includes/functions.php on line 12
+[13-Apr-2025 17:36:08 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:38:10 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:38:42 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:39:22 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:39:22 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:43:15 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:43:52 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:43:52 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:43:57 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:44:04 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:44:04 UTC] PHP Deprecated:  Implicit conversion from float 205.75 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 17:44:04 UTC] PHP Deprecated:  Implicit conversion from float 247.75 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 17:44:10 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:44:10 UTC] PHP Deprecated:  Implicit conversion from float 229.125 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 17:44:10 UTC] PHP Deprecated:  Implicit conversion from float 236.5 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 17:45:07 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:45:07 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:45:37 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:45:53 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:45:54 UTC] PHP Deprecated:  Implicit conversion from float 253.5 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 17:47:21 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:47:52 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:48:25 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:48:56 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:49:29 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:50:00 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:50:33 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:51:05 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:51:28 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:51:37 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:51:45 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:51:45 UTC] PHP Deprecated:  Implicit conversion from float 238.625 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 17:51:45 UTC] PHP Deprecated:  Implicit conversion from float 209.625 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 17:51:48 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:51:48 UTC] PHP Deprecated:  Implicit conversion from float 219.71428571428572 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 17:51:54 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:51:58 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:52:05 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:52:12 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:52:45 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:52:46 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:53:12 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:53:12 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:53:18 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:53:42 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:53:51 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:53:54 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:53:54 UTC] PHP Deprecated:  Implicit conversion from float 198.28571428571428 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 17:53:54 UTC] PHP Deprecated:  Implicit conversion from float 251.71428571428572 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 17:54:22 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:54:56 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:55:27 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:56:00 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:56:17 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:56:17 UTC] PHP Deprecated:  Implicit conversion from float 259.6 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 17:56:22 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:56:22 UTC] PHP Deprecated:  Implicit conversion from float 284.6 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 17:56:31 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 17:56:31 UTC] PHP Deprecated:  Implicit conversion from float 253.8 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:01:42 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:01:42 UTC] PHP Deprecated:  Implicit conversion from float 240.74193548387098 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:01:42 UTC] PHP Deprecated:  Implicit conversion from float 242.6451612903226 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:01:47 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:01:47 UTC] PHP Deprecated:  Implicit conversion from float 225.38709677419354 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:01:47 UTC] PHP Deprecated:  Implicit conversion from float 240.58064516129033 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:02:04 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:02:04 UTC] PHP Deprecated:  Implicit conversion from float 227.96774193548387 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:04:09 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:04:09 UTC] PHP Deprecated:  Implicit conversion from float 243.38709677419354 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:04:31 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:04:31 UTC] PHP Deprecated:  Implicit conversion from float 245.16129032258064 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:04:31 UTC] PHP Deprecated:  Implicit conversion from float 247.06451612903226 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:04:41 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:04:41 UTC] PHP Deprecated:  Implicit conversion from float 249.1290322580645 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:07:26 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:07:30 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:07:30 UTC] PHP Deprecated:  Implicit conversion from float 265.38709677419354 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:07:38 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:07:38 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:07:43 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:07:43 UTC] PHP Deprecated:  Implicit conversion from float 232.70967741935485 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:07:43 UTC] PHP Deprecated:  Implicit conversion from float 249.19354838709677 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:07:46 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:08:09 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:08:09 UTC] PHP Deprecated:  Implicit conversion from float 234.25806451612902 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:08:12 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:08:12 UTC] PHP Deprecated:  Implicit conversion from float 256.7741935483871 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:08:21 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:08:21 UTC] PHP Deprecated:  Implicit conversion from float 241.8 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:08:21 UTC] PHP Deprecated:  Implicit conversion from float 239.4 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:08:27 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:08:27 UTC] PHP Deprecated:  Implicit conversion from float 258.85714285714283 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:08:56 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:09:00 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:09:35 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:09:35 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:10:02 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:10:02 UTC] PHP Deprecated:  Implicit conversion from float 224.8709677419355 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:10:02 UTC] PHP Deprecated:  Implicit conversion from float 241.67741935483872 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:10:10 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:10:11 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:10:44 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:10:46 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:10:46 UTC] PHP Deprecated:  Implicit conversion from float 230.29032258064515 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:11:16 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:11:22 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:11:22 UTC] PHP Deprecated:  Implicit conversion from float 231.51612903225808 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:11:36 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:11:36 UTC] PHP Deprecated:  Implicit conversion from float 228.72727272727272 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:11:38 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:11:38 UTC] PHP Deprecated:  Implicit conversion from float 242.67741935483872 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:12:31 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:12:31 UTC] PHP Deprecated:  Implicit conversion from float 240.16129032258064 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:12:40 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:12:40 UTC] PHP Deprecated:  Implicit conversion from float 247.74193548387098 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:12:59 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:13:00 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:16:32 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:16:33 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:16:42 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:16:42 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:16:48 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:16:53 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:17:25 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:17:27 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:17:37 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:17:42 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:18:14 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:18:25 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:18:46 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:19:09 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:19:19 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:19:19 UTC] PHP Deprecated:  Implicit conversion from float 231.4516129032258 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:19:19 UTC] PHP Deprecated:  Implicit conversion from float 242.96774193548387 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:19:23 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:19:23 UTC] PHP Deprecated:  Implicit conversion from float 229.61290322580646 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:19:23 UTC] PHP Deprecated:  Implicit conversion from float 243.3548387096774 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:19:28 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:20:07 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:20:07 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:20:29 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:20:30 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:20:37 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:20:53 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:20:53 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:21:01 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:21:26 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:21:33 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:21:44 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:21:58 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:22:05 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:22:05 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:22:05 UTC] PHP Deprecated:  Implicit conversion from float 235.70967741935485 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:22:05 UTC] PHP Deprecated:  Implicit conversion from float 239.6451612903226 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:22:11 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:22:22 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:22:55 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:23:55 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:24:23 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:24:23 UTC] PHP Deprecated:  Implicit conversion from float 237.93548387096774 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:24:31 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:24:31 UTC] PHP Deprecated:  Implicit conversion from float 233.25806451612902 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:25:29 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:25:29 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:25:59 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:26:18 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:26:18 UTC] PHP Deprecated:  Implicit conversion from float 254.61290322580646 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:27:05 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:27:05 UTC] PHP Deprecated:  Implicit conversion from float 232.80645161290323 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:27:24 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:27:24 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:27:42 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:27:42 UTC] PHP Deprecated:  Implicit conversion from float 248.90322580645162 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:27:42 UTC] PHP Deprecated:  Implicit conversion from float 244.7741935483871 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:27:53 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:27:53 UTC] PHP Deprecated:  Implicit conversion from float 236.6701030927835 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:27:53 UTC] PHP Deprecated:  Implicit conversion from float 242.2680412371134 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:29:10 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:29:10 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:29:23 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:29:23 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:29:55 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:30:28 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:30:47 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:30:47 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:31:00 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:31:17 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:31:32 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:31:47 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:32:03 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:32:18 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:32:36 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:32:48 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:32:59 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:32:59 UTC] PHP Deprecated:  Implicit conversion from float 227.67741935483872 to int loses precision in /project/sandbox/user-workspace/includes/functions.php on line 36
+[13-Apr-2025 18:33:08 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:33:40 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:33:48 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:33:56 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:33:56 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:35:39 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:35:39 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:36:09 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:36:09 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:37:41 UTC] Note: Running in demo mode without database connection
+[13-Apr-2025 18:38:06 UTC] Note: Running in demo mode without database connection
